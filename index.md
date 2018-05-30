@@ -1,35 +1,23 @@
 ## Welcome to 雪之家
 
-欢迎你来到雪之家，很高兴认识你，愿你天黑有灯，下雨有伞，每天开心快乐，心想事成
+欢迎你来到雪之家，很高兴认识你，愿你天黑有灯，下雨有伞，每天开心快乐，心想事成。
 
-### Markdown
+### 有一种态度
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ 做一个明媚的女子。不倾国，不倾城，却倾其所有的爱。
 
 ```markdown
-Syntax highlighted code block
+  我明白，悲欢离合，其实都是人生常态。
+  我也明白，许多时候，就算倾尽全力，就算付出一切，结果也未必尽如人意。
+  这就是命运，所谓人定胜天，不过是凡人的奢望。
+  可是，就算如此，就算世间有那么多我无法战胜的东西，至少我还可以做到，永不妥协，永不忘记。
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### 有一种心情
 
-**Bold** and _Italic_ and `Code` text
+喜欢仰望晴天里的太阳，眯着眼睛单曲循环，心里想念一个人，或是被一个人用电话提醒着被爱的甜蜜，没有什么，生活的原样就是如此，活的精致。不粗糙单调。文字，音乐，安静的键盘的声音，似乎一生的光阴就这样温暖的流过了。流淌的是歌，在心底沉淀成如诗的行板，一行行，一段段，温馨如蜜。
 
-[Link](url) and ![Image](src)
-```
+### 有一种爱
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MatchlessXue/weixue/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+有一种爱，厚烈如酒，荡气回肠融融于胸，那是超越了血缘的相逢。有一种情，凄婉美丽，诀窍秋水如幻如梦，那是跨越了因果的牵动。摇晃所有记忆，数捻相处历程，也许今世有爱却无爱，也许今世有情却无情。一生能有几份情，问遍千世百代，有谁说得清?似乎只有：一人，一梦，一激灵。
